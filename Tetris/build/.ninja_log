@@ -1,0 +1,7 @@
+# ninja log v5
+0	576	1629386300206652701	CMakeFiles/sf-app.dir/Source/Piece.cpp.o	9b158b7e3ed7909b
+1	647	1629386300276652701	CMakeFiles/sf-app.dir/Source/Board.cpp.o	b0f5450e9c18eeb0
+0	689	1629386300319986033	CMakeFiles/sf-app.dir/main.cpp.o	e69380d793f5a8d3
+1	891	1629386300519986030	CMakeFiles/sf-app.dir/Source/Stats.cpp.o	f401f952c36fda5
+0	1098	1629386300726652694	CMakeFiles/sf-app.dir/Source/Game.cpp.o	71e6d9713ca70ff7
+1098	1176	1629386300803319359	sf-app	7c7489cf90d5b933

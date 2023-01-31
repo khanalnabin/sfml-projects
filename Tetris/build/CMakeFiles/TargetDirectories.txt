@@ -1,0 +1,3 @@
+/home/nabin/Projects/Tetris/build/CMakeFiles/rebuild_cache.dir
+/home/nabin/Projects/Tetris/build/CMakeFiles/edit_cache.dir
+/home/nabin/Projects/Tetris/build/CMakeFiles/sf-app.dir

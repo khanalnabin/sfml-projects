@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/nabin/Projects/Tetris/build",
+  "command": "/bin/c++ -g -o CMakeFiles/sf-app.dir/main.cpp.o -c /home/nabin/Projects/Tetris/main.cpp",
+  "file": "/home/nabin/Projects/Tetris/main.cpp"
+},
+{
+  "directory": "/home/nabin/Projects/Tetris/build",
+  "command": "/bin/c++ -g -o CMakeFiles/sf-app.dir/Source/Game.cpp.o -c /home/nabin/Projects/Tetris/Source/Game.cpp",
+  "file": "/home/nabin/Projects/Tetris/Source/Game.cpp"
+},
+{
+  "directory": "/home/nabin/Projects/Tetris/build",
+  "command": "/bin/c++ -g -o CMakeFiles/sf-app.dir/Source/Piece.cpp.o -c /home/nabin/Projects/Tetris/Source/Piece.cpp",
+  "file": "/home/nabin/Projects/Tetris/Source/Piece.cpp"
+},
+{
+  "directory": "/home/nabin/Projects/Tetris/build",
+  "command": "/bin/c++ -g -o CMakeFiles/sf-app.dir/Source/Stats.cpp.o -c /home/nabin/Projects/Tetris/Source/Stats.cpp",
+  "file": "/home/nabin/Projects/Tetris/Source/Stats.cpp"
+},
+{
+  "directory": "/home/nabin/Projects/Tetris/build",
+  "command": "/bin/c++ -g -o CMakeFiles/sf-app.dir/Source/Board.cpp.o -c /home/nabin/Projects/Tetris/Source/Board.cpp",
+  "file": "/home/nabin/Projects/Tetris/Source/Board.cpp"
+}
+]
